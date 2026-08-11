@@ -5,7 +5,13 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-Computer Science graduate from Universitas Brawijaya with experience in ERP development, full-stack engineering, and AI research.
+Computer Science graduate from Universitas Brawijaya with hands-on experience in ERP development, full-stack engineering, and Generative AI research.
+</p>
+
+<p align="center">
+  🎓 Universitas Brawijaya &nbsp;•&nbsp;
+  📊 GPA 3.62/4.00 &nbsp;•&nbsp;
+  ⏱️ Graduated in 3.5 Years
 </p>
 
 <p align="center">
@@ -24,15 +30,17 @@ Computer Science graduate from Universitas Brawijaya with experience in ERP deve
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science graduate from Universitas Brawijaya**, completing my degree in **3.5 years**.
+I'm a **Computer Science graduate from Universitas Brawijaya**, completing my bachelor's degree in **3.5 years with a GPA of 3.62/4.00**.
 
-I have experience developing and maintaining **ERP systems using JavaScript-based technologies**, especially for business processes such as inventory, logistics, finance, user management, and reporting.
+I have hands-on experience developing and maintaining **ERP systems using JavaScript-based technologies**, working with real business processes such as inventory, logistics, finance, user management, reporting, and system maintenance.
 
-My undergraduate thesis focused on **Generative Batik using Large Language Models (LLMs)**, which introduced me deeper into Generative AI, experimentation, datasets, and model evaluation.
+For my undergraduate thesis, I developed a **Generative Batik system by combining ControlNet and DreamBooth**, exploring model fine-tuning, controlled image generation, experimentation, and evaluation.
 
-Currently, I'm also learning more about **AI Agents**, particularly **OpenClaw and Hermes**, and how LLMs can work with tools, memory, APIs, and knowledge bases.
+During university, I served as **Vice Chairman of Information & Technology Development at BEM FILKOM UB** and **Vice Chairman of Public Relations in a robotics organization**, giving me experience in both technical development and team leadership.
 
-I enjoy building software that solves real problems and continuously learning new technologies along the way.
+Currently, I'm also exploring **AI Agents and Agentic Systems**, particularly **OpenClaw, Hermes, LLM integration, agent memory, tool calling, RAG, and automation**.
+
+I enjoy building useful systems, solving real-world problems, and continuously learning new technologies.
 
 ---
 
@@ -40,20 +48,21 @@ I enjoy building software that solves real problems and continuously learning ne
 
 ### 🏢 ERP Development
 
-Experienced in developing and maintaining ERP systems for real business operations.
+Experienced in developing and maintaining ERP systems used to support real-world business operations.
 
 Some areas I've worked with:
 
 - Inventory & logistics
 - Financial workflows
 - User & role management
-- REST APIs
+- REST API development
 - Database management
 - Dashboard & reporting
 - System maintenance
 - Deployment & troubleshooting
 
-**Tech:** `JavaScript` `Node.js` `React` `SQL` `REST API` `Docker` `Linux`
+**Tech:**  
+`JavaScript` `Node.js` `React` `SQL` `REST API` `Docker` `Linux`
 
 ---
 
@@ -61,17 +70,17 @@ Some areas I've worked with:
 
 **Student Executive Board (BEM), Faculty of Computer Science — Universitas Brawijaya**
 
-Worked on technology development while also helping coordinate the IT development team.
+Worked on technology development while helping coordinate the IT development team.
 
 My responsibilities included:
 
 - Developing and maintaining websites and information systems
-- Coordinating technical projects
+- Coordinating technical projects and team activities
 - Translating organizational needs into technical solutions
 - Supporting troubleshooting and system improvements
 - Collaborating with other divisions
 
-This role gave me experience in both **software development and team leadership**.
+This role gave me experience in both **software development and technical leadership**.
 
 ---
 
@@ -81,50 +90,77 @@ This role gave me experience in both **software development and team leadership*
 
 Served as Vice Chairman of Public Relations, helping with team coordination, communication, external relations, and organizational activities.
 
-This experience improved my skills in:
+This experience strengthened my skills in:
 
 `Leadership` `Communication` `Teamwork` `Public Relations` `Problem Solving`
 
 ---
 
-## 🤖 AI & Research
+## 🎓 AI & Research
 
-### Generative Batik with LLM
+### Generative Batik using ControlNet & DreamBooth
 
-My undergraduate thesis explored the use of **Large Language Models and Generative AI for Batik generation**.
+For my undergraduate thesis, I developed a **Generative AI approach for Batik generation by combining ControlNet and DreamBooth**.
 
-I worked with:
+The research explored how both methods could work together to generate Batik images while maintaining visual structure and learning specific Batik characteristics.
 
-- Dataset preparation
-- Data preprocessing
+My work included:
+
+- Dataset preparation & preprocessing
+- DreamBooth fine-tuning
+- ControlNet implementation
+- Integration of both methods
+- Prompt-based image generation
 - Model experimentation
-- Model training
-- Prompt-based generation
 - Model evaluation
-- Research analysis
+- Experimental analysis
 
-**Tech:** `Python` `LLM` `Generative AI` `Machine Learning`
+This project gave me hands-on experience with **Generative AI, model fine-tuning, and controlled image generation**.
+
+**Tech & Concepts:**  
+`Python` `ControlNet` `DreamBooth` `Generative AI` `Diffusion Models` `Image Generation`
 
 ---
 
 ## 🧠 Currently Exploring
 
-I'm currently learning more about **AI Agents and Agentic Systems**.
+I'm currently learning more about **AI Agents and Agentic Systems**, especially how AI can interact with real tools and applications beyond traditional chatbots.
 
 Some technologies and concepts I'm exploring:
 
-- OpenClaw
-- Hermes
+- 🦞 OpenClaw
+- 🪽 Hermes
 - AI Agents
 - Agent Memory
 - Tool Calling
 - LLM APIs
-- RAG
+- OpenAI-Compatible APIs
+- Retrieval-Augmented Generation (RAG)
 - Knowledge Bases
 - AI Automation
 - Dockerized AI Systems
 
-I'm especially interested in how AI agents can be integrated into **real business applications**, not just used as chatbots.
+I'm particularly interested in how AI agents can be integrated into **real business and enterprise applications**.
+
+---
+
+## 🧩 Selected Areas
+
+### Enterprise Systems
+
+`ERP` `Inventory` `Logistics` `Finance` `RBAC` `Reporting`
+
+### Software Engineering
+
+`Full-Stack Development` `Backend Development` `REST API` `Database Design`
+
+### Artificial Intelligence
+
+`Generative AI` `ControlNet` `DreamBooth` `AI Agents` `RAG`
+
+### Infrastructure
+
+`Docker` `Linux` `Deployment` `Server Management`
 
 ---
 
@@ -159,13 +195,12 @@ I'm especially interested in how AI agents can be integrated into **real busines
 ## 🎯 Interests
 
 `Software Engineering`  
-`Backend Engineering`  
 `Full-Stack Development`  
+`Backend Engineering`  
 `ERP & Business Systems`  
-`Artificial Intelligence`  
-`Large Language Models`  
-`AI Agents`  
 `System Architecture`  
+`Generative AI`  
+`AI Agents`  
 `DevOps`  
 `Cybersecurity`
 
@@ -174,22 +209,29 @@ I'm especially interested in how AI agents can be integrated into **real busines
 ## 📊 GitHub
 
 <p align="center">
+
   <img
     width="48%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=etherlyvan&theme=github_dark"
+    alt="GitHub Stats"
   />
 
   <img
     width="48%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etherlyvan&theme=github_dark"
+    alt="Top Languages"
   />
+
 </p>
 
 <p align="center">
+
   <img
     width="70%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=etherlyvan&theme=github_dark"
+    alt="GitHub Profile Details"
   />
+
 </p>
 
 ---
@@ -219,5 +261,9 @@ I'm especially interested in how AI agents can be integrated into **real busines
 ---
 
 <p align="center">
-  <i>Building useful software and continuously learning along the way.</i>
+  <b>Software Engineer • Full-Stack Developer • AI Enthusiast</b>
+</p>
+
+<p align="center">
+  <i>Building useful software, solving real problems, and learning along the way.</i>
 </p>
