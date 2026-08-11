@@ -1,26 +1,221 @@
 <h1 align="center">Hi 👋, I'm Jovan Prabowo Kuncoro</h1>
-<h3 align="center">I huge have an interest in the world of full stack web development, Mobile Development and Cyber Security.</h3>
 
-- I am now joining the Bem Filkom campus organization and becoming a developer for the Bemfilkom website [bemfilkom](https://bemfilkom.ub.ac.id/)
+<h3 align="center">
+Software Engineer | Full-Stack Developer | AI & LLM Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **Laravel, Node JS, GO for Back-End. Next, Vite-react for Front-End. Flutter, Kotlin for Mobile. And learning some Cryptography Algorithms for Cyber Security**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Etherlyvan](https://github.com/etherlyvan)
-
-- 💬 Ask me about **Anything, Feel Free!**
-
-- 📫 How to reach me **jovanku1@gmail.com or DM me on instagram! @vanr0**
-
-- ⚡ Fun fact **I like to have a lot of friends, but not a talkative person**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/vanr0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanr0" height="30" width="40" /></a>
+<p align="center">
+Computer Science Graduate from Universitas Brawijaya with experience in building ERP systems, web applications, AI research, and technology-driven organizational projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etherlyvan&show_icons=true&theme=dracula&text_color=ffffff&bg_color=450099&locale=en&layout=compact" alt="etherlyvan" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etherlyvan&show_icons=true&theme=dracula&text_color=ffffff&bg_color=014e74&locale=en" alt="etherlyvan" /></p>
+* 🎓 **Computer Science Graduate from Universitas Brawijaya**, completing my degree in **3.5 years**.
+* 💼 Experienced in developing and maintaining **ERP systems using JavaScript-based technologies**.
+* 🤖 Completed my undergraduate thesis on **LLM-based Generative Batik**, exploring generative AI and Large Language Models from a ground-up implementation and research perspective.
+* 🌐 Experienced in **Full-Stack Web Development**, backend systems, APIs, databases, and application deployment.
+* 🛠️ Interested in **Software Engineering, Artificial Intelligence, Backend Engineering, System Architecture, and Cybersecurity**.
+* 📚 Continuously exploring modern technologies and improving my knowledge through practical projects.
+
+---
+
+## 🚀 Professional Highlights
+
+### 💼 ERP Development
+
+Experienced in designing, developing, and maintaining ERP applications to support business operations.
+
+Some areas I have worked with include:
+
+* Business process digitalization
+* Inventory & logistics management
+* Financial workflow
+* User & role management
+* REST API development
+* Database design
+* Dashboard & reporting
+* Application maintenance
+* System troubleshooting
+* Business requirement implementation
+
+My experience has helped me understand not only how to **write software**, but also how software should solve **real operational and business problems**.
+
+---
+
+## 🤖 Undergraduate Research — Generative AI
+
+### LLM-Based Generative Batik
+
+For my undergraduate thesis, I worked on a **Generative AI project focused on generating Batik using Large Language Models (LLM)**.
+
+The project allowed me to explore:
+
+* Large Language Models
+* Generative AI
+* AI model architecture
+* Model training & experimentation
+* Dataset preparation
+* Prompt-based generation
+* Research methodology
+* Model evaluation
+* Python-based AI development
+
+The project strengthened my interest in the intersection between **Artificial Intelligence, Software Engineering, and Indonesian cultural heritage**.
+
+---
+
+## 🏢 Leadership & Organizational Experience
+
+### 🤖 Vice Chairman — Public Relations
+
+**Robotics Organization**
+
+Served as **Vice Chairman of Public Relations**, contributing to communication strategies, organizational coordination, external relations, and team management.
+
+This experience helped strengthen my:
+
+* Leadership
+* Communication
+* Team coordination
+* Public relations
+* Strategic planning
+* Problem-solving skills
+
+### 💻 Information & Technology Developer
+
+**Faculty of Computer Science — Universitas Brawijaya**
+
+Contributed to the development and management of information technology within the Faculty of Computer Science environment.
+
+Responsibilities and experience included:
+
+* Web development
+* Information system development
+* Technical maintenance
+* Supporting digital initiatives
+* Collaborating with organizational teams
+* Translating operational requirements into technical solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,java,go,kotlin,html,css" />
+</p>
+
+### Front-End
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,vue,tailwind,bootstrap" />
+</p>
+
+### Back-End
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,express" />
+</p>
+
+### Database & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux" />
+</p>
+
+### Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+### AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+---
+
+## 🎯 Currently Interested In
+
+```text
+Software Engineering
+├── Full-Stack Development
+├── Backend Engineering
+├── ERP & Business Systems
+├── System Architecture
+└── API Development
+
+Artificial Intelligence
+├── Large Language Models
+├── Generative AI
+├── AI Agents
+├── Machine Learning
+└── AI-powered Applications
+
+Infrastructure
+├── Docker
+├── Linux
+├── Deployment
+└── Application Monitoring
+```
+
+---
+
+## 💡 What I Bring
+
+I enjoy working at the intersection of **technology and real-world business problems**.
+
+Rather than focusing only on writing code, I am interested in understanding:
+
+> **What problem are we solving, why does it matter, and how can technology solve it efficiently?**
+
+With experience across **ERP development, full-stack engineering, AI research, and organizational leadership**, I am comfortable learning new technologies and adapting to different technical challenges.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=etherlyvan&show_icons=true&theme=github_dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherlyvan&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/etherlyvan">
+<img src="https://img.shields.io/badge/GitHub-Etherlyvan-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/jvnpra/">
+<img src="https://img.shields.io/badge/Instagram-@vanr0-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:jovanku1@gmail.com">
+<img src="https://img.shields.io/badge/Email-jovanku1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>Interested in building scalable software, intelligent systems, and technology that solves real-world problems.</i>
+</p>
