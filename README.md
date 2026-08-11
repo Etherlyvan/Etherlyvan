@@ -18,11 +18,13 @@ Computer Science graduate from Universitas Brawijaya with hands-on experience in
   <a href="mailto:jovanku1@gmail.com">
     <img src="https://img.shields.io/badge/Email-jovanku1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://wa.me/6281233742584">
     <img src="https://img.shields.io/badge/WhatsApp-081233742584-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/vanr0/">
-    <img src="https://img.shields.io/badge/Instagram-@vanr0-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+
+  <a href="https://www.instagram.com/jvnpra/">
+    <img src="https://img.shields.io/badge/Instagram-@jvnpra-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -115,7 +117,7 @@ My work included:
 - Model evaluation
 - Experimental analysis
 
-This project gave me hands-on experience with **Generative AI, model fine-tuning, and controlled image generation**.
+This project gave me hands-on experience with **Generative AI, model fine-tuning, controlled image generation, and experimental research**.
 
 **Tech & Concepts:**  
 `Python` `ControlNet` `DreamBooth` `Generative AI` `Diffusion Models` `Image Generation`
@@ -144,7 +146,7 @@ I'm particularly interested in how AI agents can be integrated into **real busin
 
 ---
 
-## 🧩 Selected Areas
+## 🧩 What I Work With
 
 ### Enterprise Systems
 
@@ -206,7 +208,7 @@ I'm particularly interested in how AI agents can be integrated into **real busin
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -252,8 +254,8 @@ I'm particularly interested in how AI agents can be integrated into **real busin
   <img src="https://img.shields.io/badge/WhatsApp-081233742584-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/vanr0/">
-  <img src="https://img.shields.io/badge/Instagram-@vanr0-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/jvnpra/">
+  <img src="https://img.shields.io/badge/Instagram-@jvnpra-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
