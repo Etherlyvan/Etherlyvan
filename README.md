@@ -1,271 +1,128 @@
-<h1 align="center">Hi 👋, I'm Jovan Prabowo Kuncoro</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Full-Stack Developer • AI Enthusiast
-</h3>
+<img src="./assets/terminal.gif" width="860" alt="Animated ASCII-style terminal introducing Jovan Prabowo Kuncoro, username etherlyvan" />
 
-<p align="center">
-Computer Science graduate from Universitas Brawijaya with hands-on experience in ERP development, full-stack engineering, and Generative AI research.
-</p>
+# Jovan Prabowo Kuncoro
 
-<p align="center">
-  🎓 Universitas Brawijaya &nbsp;•&nbsp;
-  📊 GPA 3.62/4.00 &nbsp;•&nbsp;
-  ⏱️ Graduated in 3.5 Years
-</p>
+**Software Engineer · Backend-Focused Full-Stack Developer · AI Enthusiast**
 
-<p align="center">
-  <a href="mailto:jovanku1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jovanku1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+Computer Science graduate from **Universitas Brawijaya** with experience in ERP development, full-stack engineering, and Generative AI research.
 
-  <a href="https://wa.me/6281233742584">
-    <img src="https://img.shields.io/badge/WhatsApp-081233742584-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
+`Indonesia` &nbsp;·&nbsp; `GPA 3.62 / 4.00` &nbsp;·&nbsp; `Graduated in 3.5 years`
 
-  <a href="https://www.instagram.com/jvnpra/">
-    <img src="https://img.shields.io/badge/Instagram-@jvnpra-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=9CE7E7)](mailto:jovanku1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=9CE7E7)](https://github.com/etherlyvan)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=9CE7E7)](https://www.instagram.com/jvnpra/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=flat-square&logo=whatsapp&logoColor=9CE7E7)](https://wa.me/6281233742584)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+### `01 / ABOUT`
 
-I'm a **Computer Science graduate from Universitas Brawijaya**, completing my bachelor's degree in **3.5 years with a GPA of 3.62/4.00**.
+I'm a software engineer interested in building **reliable backend services and practical business systems**. My experience includes developing and maintaining **JavaScript-based ERP applications** supporting inventory, logistics, finance, user management, reporting, and day-to-day operations.
 
-I have hands-on experience developing and maintaining **ERP systems using JavaScript-based technologies**, working with real business processes such as inventory, logistics, finance, user management, reporting, and system maintenance.
+I also research and experiment with AI. For my undergraduate thesis, I developed a **Generative Batik system combining ControlNet and DreamBooth** to explore controlled image generation and model fine-tuning.
 
-For my undergraduate thesis, I developed a **Generative Batik system by combining ControlNet and DreamBooth**, exploring model fine-tuning, controlled image generation, experimentation, and evaluation.
+I'm currently strengthening my skills in **backend architecture, system design, and AI agent integration** — with a focus on turning complex requirements into maintainable software.
 
-During university, I served as **Vice Chairman of Information & Technology Development at BEM FILKOM UB** and **Vice Chairman of Public Relations in a robotics organization**, giving me experience in both technical development and team leadership.
+### `02 / ENGINEERING EXPERIENCE`
 
-Currently, I'm also exploring **AI Agents and Agentic Systems**, particularly **OpenClaw, Hermes, LLM integration, agent memory, tool calling, RAG, and automation**.
+**ERP Development** — Enterprise & business systems
 
-I enjoy building useful systems, solving real-world problems, and continuously learning new technologies.
+- Developed and maintained functionality for inventory, logistics, financial workflows, and reporting.
+- Worked with REST APIs, database management, user/role management, and application maintenance.
+- Supported deployment, troubleshooting, and system improvements.
 
----
-
-## 💼 Experience
-
-### 🏢 ERP Development
-
-Experienced in developing and maintaining ERP systems used to support real-world business operations.
-
-Some areas I've worked with:
-
-- Inventory & logistics
-- Financial workflows
-- User & role management
-- REST API development
-- Database management
-- Dashboard & reporting
-- System maintenance
-- Deployment & troubleshooting
-
-**Tech:**  
 `JavaScript` `Node.js` `React` `SQL` `REST API` `Docker` `Linux`
 
----
+**Vice Chairman — Information & Technology Development**  
+*Student Executive Board (BEM), Faculty of Computer Science — Universitas Brawijaya*
 
-### 💻 Vice Chairman — Information & Technology Development
+- Coordinated technology projects and supported the IT development team.
+- Developed and maintained organizational websites and information systems.
+- Worked across divisions to translate organizational needs into technical solutions.
 
-**Student Executive Board (BEM), Faculty of Computer Science — Universitas Brawijaya**
+**Vice Chairman — Public Relations**  
+*Robotics Organization*
 
-Worked on technology development while helping coordinate the IT development team.
+- Helped coordinate communications, external relations, and team activities.
+- Developed practical leadership, collaboration, and problem-solving skills.
 
-My responsibilities included:
+### `03 / SELECTED RESEARCH`
 
-- Developing and maintaining websites and information systems
-- Coordinating technical projects and team activities
-- Translating organizational needs into technical solutions
-- Supporting troubleshooting and system improvements
-- Collaborating with other divisions
+**Generative Batik with ControlNet & DreamBooth** · Undergraduate thesis
 
-This role gave me experience in both **software development and technical leadership**.
+A research project investigating how **controlled image generation** and **subject-specific fine-tuning** can be combined for Batik image generation.
 
----
+- Prepared and preprocessed datasets.
+- Worked with DreamBooth fine-tuning and ControlNet implementation.
+- Integrated generation workflows and ran model experiments and evaluation.
 
-### 🤖 Vice Chairman — Public Relations
+`Python` `ControlNet` `DreamBooth` `Diffusion Models` `Generative AI`
 
-**Robotics Organization**
+### `04 / TECH STACK`
 
-Served as Vice Chairman of Public Relations, helping with team coordination, communication, external relations, and organizational activities.
+**Core development**
 
-This experience strengthened my skills in:
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=9CE7E7)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=9CE7E7)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=9CE7E7)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=9CE7E7)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=9CE7E7)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=9CE7E7)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=9CE7E7)
 
-`Leadership` `Communication` `Teamwork` `Public Relations` `Problem Solving`
+<details>
+<summary><b>Additional technologies listed in my toolkit</b></summary>
 
----
+<br />
 
-## 🎓 AI & Research
+**Languages:** TypeScript, PHP, Java, Go, HTML, CSS  
+**Frontend:** Vite, Vue, Tailwind CSS, Bootstrap  
+**Backend & data:** Express, Laravel, MySQL, PostgreSQL, SQLite  
+**Tooling:** Nginx, Git, GitHub, Postman, VS Code
 
-### Generative Batik using ControlNet & DreamBooth
+*My experience level varies across these technologies; this list includes tools I use and tools I continue to explore.*
 
-For my undergraduate thesis, I developed a **Generative AI approach for Batik generation by combining ControlNet and DreamBooth**.
+</details>
 
-The research explored how both methods could work together to generate Batik images while maintaining visual structure and learning specific Batik characteristics.
+### `05 / CURRENTLY EXPLORING`
 
-My work included:
+I'm interested in using **AI agents inside real business and enterprise applications**, especially where models connect to tools, knowledge bases, and existing software systems.
 
-- Dataset preparation & preprocessing
-- DreamBooth fine-tuning
-- ControlNet implementation
-- Integration of both methods
-- Prompt-based image generation
-- Model experimentation
-- Model evaluation
-- Experimental analysis
+`AI Agents` `OpenClaw` `Hermes` `LLM APIs` `Tool Calling` `Agent Memory` `RAG` `Knowledge Bases` `Automation`
 
-This project gave me hands-on experience with **Generative AI, model fine-tuning, controlled image generation, and experimental research**.
+Also learning more about **backend system design, data consistency, CI/CD, and scalable architecture**.
 
-**Tech & Concepts:**  
-`Python` `ControlNet` `DreamBooth` `Generative AI` `Diffusion Models` `Image Generation`
+### `06 / BUILDING NEXT`
 
----
+> **Portfolio roadmap — planned projects, not completed work.**
 
-## 🧠 Currently Exploring
+| Project | What it will demonstrate |
+| --- | --- |
+| **Enterprise Inventory API** | PostgreSQL transactions, stock reservations, RBAC, automated tests |
+| **Digital Wallet & Ledger** | Atomic transfers, idempotency, and data consistency |
+| **Event-Driven Order Service** | Background processing, queues, retries, and observability |
 
-I'm currently learning more about **AI Agents and Agentic Systems**, especially how AI can interact with real tools and applications beyond traditional chatbots.
+*As projects are completed, this section will link to their repositories and documentation.*
 
-Some technologies and concepts I'm exploring:
+### `07 / GITHUB ACTIVITY`
 
-- 🦞 OpenClaw
-- 🪽 Hermes
-- AI Agents
-- Agent Memory
-- Tool Calling
-- LLM APIs
-- OpenAI-Compatible APIs
-- Retrieval-Augmented Generation (RAG)
-- Knowledge Bases
-- AI Automation
-- Dockerized AI Systems
+<div align="center">
 
-I'm particularly interested in how AI agents can be integrated into **real business and enterprise applications**.
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=etherlyvan&theme=github_dark" alt="GitHub contribution statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etherlyvan&theme=github_dark" alt="Repository languages" />
 
----
-
-## 🧩 What I Work With
-
-### Enterprise Systems
-
-`ERP` `Inventory` `Logistics` `Finance` `RBAC` `Reporting`
-
-### Software Engineering
-
-`Full-Stack Development` `Backend Development` `REST API` `Database Design`
-
-### Artificial Intelligence
-
-`Generative AI` `ControlNet` `DreamBooth` `AI Agents` `RAG`
-
-### Infrastructure
-
-`Docker` `Linux` `Deployment` `Server Management`
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
+`BUILD WITH PURPOSE` &nbsp;·&nbsp; `DESIGN FOR MAINTAINABILITY` &nbsp;·&nbsp; `KEEP LEARNING`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,go,html,css" />
-</p>
+<sub>Jovan Prabowo Kuncoro · <a href="https://github.com/etherlyvan">@etherlyvan</a></sub>
 
-### Front-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,vue,tailwind,bootstrap" />
-</p>
-
-### Back-End & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,sqlite" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode" />
-</p>
-
----
-
-## 🎯 Interests
-
-`Software Engineering`  
-`Full-Stack Development`  
-`Backend Engineering`  
-`ERP & Business Systems`  
-`System Architecture`  
-`Generative AI`  
-`AI Agents`  
-`DevOps`  
-`Cybersecurity`
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=etherlyvan&theme=github_dark"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=etherlyvan&theme=github_dark"
-    alt="Top Languages"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    width="70%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=etherlyvan&theme=github_dark"
-    alt="GitHub Profile Details"
-  />
-
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/etherlyvan">
-  <img src="https://img.shields.io/badge/GitHub-Etherlyvan-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:jovanku1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jovanku1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/6281233742584">
-  <img src="https://img.shields.io/badge/WhatsApp-081233742584-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/jvnpra/">
-  <img src="https://img.shields.io/badge/Instagram-@jvnpra-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>Software Engineer • Full-Stack Developer • AI Enthusiast</b>
-</p>
-
-<p align="center">
-  <i>Building useful software, solving real problems, and learning along the way.</i>
-</p>
+</div>
